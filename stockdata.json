@@ -1,0 +1,52 @@
+[
+    {
+        "symbol": "AAPL",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "MSFT",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "AMZN",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "INFY.NS",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "TCS.NS",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "WIPRO.NS",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "HCLTECH.NS",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "ITC.NS",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "ICICIBANK.NS",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    },
+    {
+        "symbol": "RELIANCE.NS",
+        "price": "6,101.24",
+        "change": "(-0.29%)"
+    }
+]
